@@ -1,0 +1,6 @@
+{
+  "name": "Smart Water Customer App",
+  "description": "Customer mobile application and admin web dashboard for a water utility company. Features real-time billing, payments, service requests, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
